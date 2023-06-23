@@ -1,0 +1,19 @@
+[
+  {
+    "Class": 0,
+    "EntryGuid": "fb1e48043961d8f44948225f539a83bb",
+    "Id": "4586367b-70b0-4950-9b8b-97810bff0e80",
+    "LV": 0,
+    "Name": [
+      {
+        "Key": "en",
+        "Value": "Bow"
+      }
+    ],
+    "Description": [],
+    "Damage": {
+      "Min": 45,
+      "Max": 70
+    }
+  }
+]

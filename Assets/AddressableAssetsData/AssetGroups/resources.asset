@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: resources
+  m_EditorClassIdentifier: 
+  m_GroupName: resources
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a5d63cdc589afe84fa2b51178061439b
+  m_SerializeEntries:
+  - m_GUID: 439e344a84692ef4bac917364e8d6b43
+    m_Address: 01_Copper_Ore
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca6299f192d72b047a99c160e51a72d0
+    m_Address: 02_Iron_Ore
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d4b8772a53d74a408443af996aa36f0
+    m_Address: 03_Copper_Bar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: acb89545de0826f4c82b03f0ce47a7cc
+    m_Address: 04_Iron_Bar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ba18157414453c40b17c669e4ddbfbf
+    m_Address: 05_red_flower
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51d32f802cfabaf4a86ad058906b4c11
+    m_Address: 06_blue_flower
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f410501d06604f74a811d26a8da9c434
+    m_Address: 07_Cloth_red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35dffbfc1cd5fa24493f3827ee1133a0
+    m_Address: 08_Cloth_blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7153d7f40b46ab04ead59b3273f92c98
+    m_Address: 09_meat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e236143258438c440a742ac4c483dedd
+    m_Address: 09_meat2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 310b28abd7578074b95656f579fbdebc
+    m_Address: 10_Basic_Leather
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4dfcd6afbd5d195479600ca5d9a0e4bf
+    m_Address: 11_Beast_Hide
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88988e7f3efe1b7448ca92979b330c1a
+    m_Address: 12_Good_Leather
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09567225435258a4ea231465d28978cb
+    m_Address: 14_Good_Beast_Hide
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a20d322c5e65a6746808e67a31dfe555
+    m_Address: 15_Heal_potion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0b6e768bd7102604f9828630faead1a4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e8422288141f8ec459a2dfa385122513, type: 2}
+    - {fileID: 11400000, guid: be24f5ae1f7d527449e1c48f3706ece2, type: 2}

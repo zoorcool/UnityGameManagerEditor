@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: armor-epic
+  m_EditorClassIdentifier: 
+  m_GroupName: armor-epic
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f540853e334d75c4c9cc581f968f29fe
+  m_SerializeEntries:
+  - m_GUID: e1ba674e14010ec4580da105317b7b77
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/01_cloth_chest_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e49632776de7f0a4482a78059933c8ed
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/01_Leather_chest_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c8101d479c60d34185259c220494c61
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/01_plate_chest_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c2d6eba56798a94eac316df3c09612a
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/02_Cloth_cloak_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 465a559bdfa55bd4daa55ba2dccc5240
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/02_leather_cloak_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7786f47c44bf5d740b5fcd8f8de04df2
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/02_plate_cloak_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31d9fd9a71fd2fa46b253808d9db9ab2
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/02_plate_shoulder_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ff18920df7230a4dbc8e9e75c4ed7e5
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/03_Cloth_helm_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe58bbacc4ff23341aa38d74eae3a5c8
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/03_Leather_helm_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3253ad9deab97584d9f92d6a2fad17b4
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/03_plate_helm_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c443e725aede404ab4a473f96e7f585
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/04_cloth_gloves_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c467e4d8975db74d93c99737e38c07f
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/04_leather_gloves_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86ecd0e7d75363342a60b7e042cff71a
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/04_plate_gloves_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3372779de276dc48accf9af14b380d9
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/05_cloth_boots_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef630bd2e9341ec4e955ee2eedcf33d1
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/05_leather_boots_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b932e329d2e122489394506ac8a777b
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/05_plate_boots_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ab71ab515b5c864b99cbc0e848d3662
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/06_cloth_pants_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9cd4c1e9242fefc4c989c0a436eda64f
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/06_leather_pants_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 600efcd1e359c604b823dcc06b09c4fc
+    m_Address: Assets/Basic_RPG_Icons/Items/Armor/Epic/06_plate_pants_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0b6e768bd7102604f9828630faead1a4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 06fe14c82611e7842b28110f97984464, type: 2}
+    - {fileID: 11400000, guid: 5b4b9dbd95e4155479d889ac24fbffc5, type: 2}

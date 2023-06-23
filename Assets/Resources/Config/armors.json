@@ -1,0 +1,38 @@
+[
+  {
+    "Subclass": 0,
+    "Class": 1,
+    "EntryGuid": "1db2aafa220bdac428f29f48a82e2b50",
+    "Id": "1ea16881-aa59-451d-95b2-5857c2835334",
+    "LV": 0,
+    "Name": [
+      {
+        "Key": "en",
+        "Value": "Cloth Chest"
+      }
+    ],
+    "Description": [],
+    "Defence": {
+      "Min": 10,
+      "Max": 15
+    }
+  },
+  {
+    "Subclass": 1,
+    "Class": 1,
+    "EntryGuid": "e1ba674e14010ec4580da105317b7b77",
+    "Id": "9e4bead4-3fc1-4c68-99b6-188c62ef28c1",
+    "LV": 0,
+    "Name": [
+      {
+        "Key": "en",
+        "Value": "Cloth Cest Epic"
+      }
+    ],
+    "Description": [],
+    "Defence": {
+      "Min": 25,
+      "Max": 50
+    }
+  }
+]

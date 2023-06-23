@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: weapon
+  m_EditorClassIdentifier: 
+  m_GroupName: weapon
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 56713e76838efdb46b4db02f2c401d7b
+  m_SerializeEntries:
+  - m_GUID: fb1e48043961d8f44948225f539a83bb
+    m_Address: Assets/Basic_RPG_Icons/Items/Weapons/01_Bow.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 4ad16adfdf2d1a441879a598de742eb6
+    m_Address: Assets/Basic_RPG_Icons/Items/Weapons/02_Sword.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 97eb33f17282b874aafc04781652f343
+    m_Address: Assets/Basic_RPG_Icons/Items/Weapons/03_Greataxe.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: d91ce643b75a45f47baee6493da5d705
+    m_Address: Assets/Basic_RPG_Icons/Items/Weapons/04_Mace_with_spikes.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: a42b3b2bb82524b4c9e97aca1cb294fe
+    m_Address: Assets/Basic_RPG_Icons/Items/Weapons/05_Shield.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 068e1fdf499021846bfcd482e4f2b08d
+    m_Address: Assets/Basic_RPG_Icons/Items/Weapons/06_One_Handed_Axe.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: 23e3487bd159e544bbce0a44b6faadc4
+    m_Address: Assets/Basic_RPG_Icons/Items/Weapons/07_Priest_Staff.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: ed0a32aeeb2bf0f40ad22e944d930018
+    m_Address: Assets/Basic_RPG_Icons/Items/Weapons/08_Mage_Staff.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  - m_GUID: d31aa8412a4d374458c912d11686642a
+    m_Address: Assets/Basic_RPG_Icons/Items/Weapons/09_Longsword.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0b6e768bd7102604f9828630faead1a4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7c0deb0c8c6faa142886c80522627e29, type: 2}
+    - {fileID: 11400000, guid: 98096b8fabab2f249a5780f80ff99483, type: 2}

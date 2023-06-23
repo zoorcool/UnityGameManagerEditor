@@ -1,0 +1,14 @@
+{
+  "Money": 0.0,
+  "Langs": [
+    "en",
+    "ru"
+  ],
+  "Attributes": [
+    {
+      "$type": "NSmirnov.Core.Foundation.DoubleAttribute, Assembly-CSharp",
+      "Value": 20000.0,
+      "Name": "Gold"
+    }
+  ]
+}
